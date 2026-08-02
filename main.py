@@ -8,7 +8,7 @@ def add(a, b):
 
 def subtract(a, b):
     """Return the subtract of two numbers."""
-    return a + b
+    return a - b
 
 
 if __name__ == "__main__":
